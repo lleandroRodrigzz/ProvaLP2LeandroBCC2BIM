@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ProvaLP2LeandroBCC2BIM/static/css/main.583374d5.css",
+    "main.js": "/ProvaLP2LeandroBCC2BIM/static/js/main.44e723d5.js",
+    "index.html": "/ProvaLP2LeandroBCC2BIM/index.html",
+    "main.583374d5.css.map": "/ProvaLP2LeandroBCC2BIM/static/css/main.583374d5.css.map",
+    "main.44e723d5.js.map": "/ProvaLP2LeandroBCC2BIM/static/js/main.44e723d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.583374d5.css",
+    "static/js/main.44e723d5.js"
+  ]
+}
